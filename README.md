@@ -24,4 +24,4 @@ You can contact with me;
 
 :email: ->  busedagidir@hotmail.com
 
-:link:  ->  https://www.linkedin.com/in/buseda%C4%9F%C4%B1d%C4%B1r/
+:link:  ->  https://www.linkedin.com/in/busedagidir/
