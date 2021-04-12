@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I love to share my projects, homeworks and codes in there. If you have any question please just ask :sparkles:  :blush:
 
-I am currently developing game applications using Unity also I'm interested in making mobile applcations with Java using Android Studio. 
+I am interested in mobile,web and game development.
 
 
 You can contact with me;
