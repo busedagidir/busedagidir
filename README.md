@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I love to share my projects, homeworks and codes in there. If you have any question please just ask :sparkles:  :blush:
 
-I am interested in mobile,web and game development.
+I am interested in data science and game development.
 
 
 You can contact with me;
