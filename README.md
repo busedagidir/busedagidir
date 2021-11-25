@@ -1,5 +1,5 @@
-<img src="https://media1.giphy.com/media/jroYByVFWtYQvoDO57/giphy.gif?cid=790b761136aace16d7dc26b3a7efe88144fad806c0bdd080&rid=giphy.gif&ct=g" align="right" width="400" height="250" />
-<iframe src="https://giphy.com/embed/jroYByVFWtYQvoDO57" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/doctorwho-doctor-who-dr-tenth-jroYByVFWtYQvoDO57">via GIPHY</a></p>
+<img src="https://giphy.com/embed/jroYByVFWtYQvoDO57" align="right" width="400" height="250" />
+
 
 ### Hi there, I'm Buse. :blush:
 
