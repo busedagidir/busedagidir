@@ -27,5 +27,5 @@ You can contact with me;
 :link:  ->  https://www.linkedin.com/in/busedagidir/
 
 
-[![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=busedagidir)](https://github.com/busedagidir/github-readme-stats)
+[![Buse's GitHub stats](https://github-readme-stats.vercel.app/apibusedagidir)](https://github.com/busedagidir/github-readme-stats)
 
