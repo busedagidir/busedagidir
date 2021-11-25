@@ -35,8 +35,8 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=busedagidir&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=busedagidir&theme=radical" align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busedagidir&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busedagidir&layout=compact" align="right">
 
 
