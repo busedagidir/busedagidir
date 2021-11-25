@@ -25,3 +25,7 @@ You can contact with me;
 :email: ->  busedagidir@hotmail.com
 
 :link:  ->  https://www.linkedin.com/in/busedagidir/
+
+
+[![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=busedagidir)](https://github.com/busedagidir/github-readme-stats)
+
