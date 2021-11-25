@@ -1,8 +1,8 @@
-<img src="https://media.giphy.com/media/jroYByVFWtYQvoDO57/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/jroYByVFWtYQvoDO57/source.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Buse. :blush:
 
- ### Reach out to me
+### Reach out to me:
 
 [linkedin]: https://www.linkedin.com/in/busedagidir/
 
@@ -26,8 +26,6 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="25" height="25" />
-
-
 
 
 <br />
