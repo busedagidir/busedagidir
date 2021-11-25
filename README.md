@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/jroYByVFWtYQvoDO57/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/jroYByVFWtYQvoDO57/source.giphy.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Buse. :blush:
 
