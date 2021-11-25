@@ -26,5 +26,5 @@ You can contact with me;
 
 :link:  ->  https://www.linkedin.com/in/busedagidir/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busedagidir)](https://github.com/busedagidir/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busedagidir&theme=radical)
 
