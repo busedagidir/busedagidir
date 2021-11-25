@@ -26,5 +26,4 @@ You can contact with me;
 
 :link:  ->  https://www.linkedin.com/in/busedagidir/
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=busedagidir&theme=radical)
 
