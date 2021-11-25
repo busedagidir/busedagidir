@@ -1,29 +1,41 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/jroYByVFWtYQvoDO57/giphy.gif" align="right" width="400" height="250">
 
-<!--
-**busedagidir/busedagidir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Buse. :blush:
 
-Here are some ideas to get you started:
+ ### Reach out to me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/busedagidir/
 
-I love to share my projects, homeworks and codes in there. If you have any question please just ask :sparkles:  :blush:
+[medium]: https://medium.com/@busedagidir
 
-I am interested in data science and game development.
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
+
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" align="left" />][medium]
+
+<br />
+<br />
 
 
-You can contact with me;
+### Tech I use
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="25" height="25" />
 
-:email: ->  busedagidir@hotmail.com
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="25" height="25" />
 
-:link:  ->  https://www.linkedin.com/in/busedagidir/
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" width="25" height="25" />
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" />
+
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="25" height="25" />
+
+
+
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=busedagidir&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busedagidir&layout=compact
+">
 
 
