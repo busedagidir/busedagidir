@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **Django & APIs**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Science & AI**
 
