@@ -27,3 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busedagidir&show_icons=true&locale=en" alt="busedagidir" /></p>
 
+
+![snake gif](https://github.com/busedagidir/busedagidir/blob/output/github-contribution-grid-snake.gif)
