@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Buse</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busedagidir&label=Profile%20views&color=0e75b6&style=flat" alt="busedagidir" /> </p>
+
 
 
 - 🌱 I’m currently learning **Computer Vision**
