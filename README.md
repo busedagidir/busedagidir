@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently working **Computer Vision**
+- 🌱 I’m currently studying **Human-Computer Interaction at Bauhaus-Universität Weimar**
 
 - 👯 I’m looking to collaborate on **Data Science & AI**
 
