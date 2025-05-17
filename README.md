@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently studying **Human-Computer Interaction at Bauhaus-Universität Weimar**
+- 🌱 I’m currently studying **Computer Science for Digital Media at Bauhaus-Universität Weimar**
 
-- 👯 I’m looking to collaborate on **Data Science & AI**
+- 👯 I’m looking to collaborate on **MAchine Learning & AI**
 
 - 📫 How to reach me **busedagidir@hotmail.com**
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/busedagidir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/busedagidir/" height="30" width="40" /></a>
 <a href="https://medium.com/@busedagidir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@busedagidir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/busedagidir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="busedagidir" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
