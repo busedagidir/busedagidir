@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying **Computer Science for Digital Media at Bauhaus-Universität Weimar**
 
-- 👯 I’m looking to collaborate on **MAchine Learning & AI**
+- 👯 I’m looking to collaborate on **Machine Learning & AI**
 
 - 📫 How to reach me **busedagidir@hotmail.com**
 
